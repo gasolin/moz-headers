@@ -1,0 +1,19 @@
+{
+    "name": "moz-headers",
+    "version": "0.0.0",
+    "description": "Web component of Firefox OS headers UI",
+    "license": "MIT",
+    "main": "dist/moz-headers.html",
+    "keywords": [
+        "polymer",
+        "web-components"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#~0.2.3"
+    }
+}
